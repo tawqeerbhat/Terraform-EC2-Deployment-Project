@@ -59,12 +59,5 @@ terraform apply  # Apply the changes to create the EC2 instance</code></pre>
 <h2>Conclusion</h2>
 <p>This project serves as a foundational exercise in using Terraform for cloud infrastructure management on AWS.</p>
 
-<h2>Repository Information</h2>
-<ul>
-    <li><strong>GitHub Repository</strong>: <a href="#">Link to your GitHub repository</a></li>
-    <li><strong>Author</strong>: [Your Name]</li>
-    <li><strong>Date</strong>: [Date of completion]</li>
-</ul>
 
-</body>
 </html>
