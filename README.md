@@ -1,42 +1,4 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terraform EC2 Deployment Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        h2 {
-            color: #34495e;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        ul {
-            margin: 10px 0;
-        }
-        .important {
-            color: #e74c3c;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
 
 <h1>Terraform EC2 Deployment Project</h1>
 
